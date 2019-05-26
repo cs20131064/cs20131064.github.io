@@ -1,0 +1,39 @@
+.header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 2;
+}
+
+.navbar {
+    position: fixed;
+    height: 40px !important;
+}
+
+#carouselExampleIndicators {
+    margin-top: 0px;
+    height: 520px;
+}
+
+.d-block {
+    width: 75% !important;
+    height: 520px !important;
+    display: block;
+    margin: 0px auto;
+}
+
+.explain {
+    position: relative;
+}
+
+.g_img {
+    position: static;
+    width: 360px;
+    height: 180px;
+}
+
+.blank {
+    height: 40px;
+    margin-bottom: 0px;
+}
